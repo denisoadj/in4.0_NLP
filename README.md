@@ -6,19 +6,19 @@
     * [Overview](#overview)
     * [Objective](#objective)
 * [Architecture](#architecture)
-    * [ChatBot Framework](#chatbot)
-    * [Conversation Engine Layer](#conversation)
+    * [Chatbot Framework](#chatbot-framework)
+    * [Conversation Engine Layer](#conversation-engine-layer)
     * [Data Model](#data-model)
 * [Methodology](#methodology)
     * [Stages](#stages)
     * [Data Collection](#data-collection)
     * [Data Augmentation](#data-augmentation)
-* [Natural Languages Processing](#methodology)
+* [Natural Language Processing](#natural-language-processing)
     * [Classification Models](#classification-models)
     * [Models Evaluation](#models-evaluation)
-* [Chatbot Demo](#demo)
+* [Chatbot Demo](#chatbot-demo)
     * [User Experience Layer](#user-experience-layer)
-    * [Natural Language to Query Demo](#demo)    
+    * [Natural Language to Query Demo](#natural-language-to-query)    
 * [Footer](#footer)
 
 ## Introduction 
@@ -36,3 +36,28 @@ The project utilises these technologies:
 
 ## Architecture 
 ### ChatBot Framework
+### Conversation Engine Layer
+### Data Model
+
+## Methodology 
+### Stages
+### Data Collection
+### Data Augmentation
+
+## Natural Language Processing 
+### Classification Models
+### Models Evaluation
+
+## Chatbot Demo
+### User Experience Layer
+### Natural Language to Query
+
+## Footer
+### Future Improvements
+   * Explore continuous dataset improvements and advanced model optimization, possibly leveraging deep learning
+   * Integration of framework with a working chatbot for a successful deployment
+
+### Acknowledgements
+* Joseph H.
+* Joeddy P.
+
