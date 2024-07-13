@@ -54,7 +54,7 @@ The project utilises these technologies:
 
 ## Footer
 ### Future Improvements
-   * Explore continuous dataset improvements and advanced model optimization, possibly leveraging deep learning
+   * Integration of new dataset  and advanced model optimization, possibly leveraging deep learning
    * Integration of framework with a working chatbot for a successful deployment
 
 ### Acknowledgements
