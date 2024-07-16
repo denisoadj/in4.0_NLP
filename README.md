@@ -15,7 +15,7 @@
     * [Data Augmentation](#data-augmentation)
 * [Natural Language Processing](#natural-language-processing)
     * [Classification Models](#classification-models)
-    * [Models Evaluation](#models-evaluation)
+    * [Models Evaluation](#model-evaluation)
 * [Chatbot Demo](#chatbot-demo)
     * [User Experience Layer](#user-experience-layer)
     * [Natural Language to Query Demo](#natural-language-to-query)    
@@ -102,10 +102,12 @@ Data augmentation involves creating new data from existing datasets to train mac
 
 ### Natural Language to Query
 
-<br>
+
 <video src=https://github.com/user-attachments/assets/9f9ba69f-7326-47b3-9322-ae548f7cc0a2"></video>
-<br>
-   
+
+
+
+
 ## Footer
 ### Future Improvements
    * Integration of new dataset  and advanced model optimization, possibly leveraging deep learning
