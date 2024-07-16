@@ -99,15 +99,13 @@ Data augmentation involves creating new data from existing datasets to train mac
 ### User Experience Layer
 
 <br>
-<video src='videos/wireframe.mp4' width=180 />
-</video>
+<img src='videos/wireframe.mp4' width=180 />
 <br> 
    
 ### Natural Language to Query
 
 <br>
-<video src='videos/query-example.mp4' width=180 />
-</video>
+<img src='videos/query-example.mp4' width=180 />
 <br>
    
 ## Footer
