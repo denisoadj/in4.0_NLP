@@ -103,7 +103,7 @@ Data augmentation involves creating new data from existing datasets to train mac
 ### Natural Language to Query
 
 <br>
-<video src=https://user-images.githubusercontent.com/videos/query-example.mp4"></video>
+<video src=https://videos/query-example.mp4"></video>
 <br>
    
 ## Footer
