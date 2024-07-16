@@ -98,15 +98,11 @@ Data augmentation involves creating new data from existing datasets to train mac
 ## Chatbot Demo
 ### User Experience Layer
 
-<video src="videos/wireframe.mp4"></video>
+https://github.com/user-attachments/assets/16d12f30-c5af-459f-a5a0-0ef64467d9fb
 
 ### Natural Language to Query
 
-
-<video src=https://github.com/user-attachments/assets/9f9ba69f-7326-47b3-9322-ae548f7cc0a2"></video>
-
-
-
+https://github.com/user-attachments/assets/984e9390-00a2-4688-9230-9bbe4eb08e7b
 
 ## Footer
 ### Future Improvements
