@@ -104,10 +104,11 @@ https://github.com/user-attachments/assets/16d12f30-c5af-459f-a5a0-0ef64467d9fb
 
 https://github.com/user-attachments/assets/984e9390-00a2-4688-9230-9bbe4eb08e7b
 
+
 ## Footer
 ### Future Improvements
-   * Integration of new dataset  and advanced model optimization, possibly leveraging deep learning
-   * Integration of framework with a working chatbot for a successful deployment
+   * Integration of new dataset and advance model optimization, possibly leveraging deep learning
+   * Integration of the framework with a functional chatbot for a successful deployment
 
 ### Acknowledgements
 * Joseph H.
