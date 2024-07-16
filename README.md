@@ -36,9 +36,10 @@ The project utilises these technologies:
 
 ## Architecture 
 ### ChatBot Framework
-This diagram describe a general architectural design and delve deep into the important parts of each component. A general chatbot architecture consists of five main components, a User Interface component (User Experience Layer), a Natural Language Understanding (NLU) component, a Dialogue
-Management (DM) component, a Backend component, and a Response Generation (RG)
-Component (Conversation Engine Layer & Data Layer).
+This diagram describe a general architectural design and delve deep into the important parts of each component. 
+A general chatbot architecture consists of those components:
+   * User Interface component (User Experience Layer), 
+   * Natural Language Understanding (NLU) component, a Dialogue Management (DM) component, a Backend component, and a Response Generation (RG) Component (Conversation Engine Layer & Data Layer).
 
 <br>
 <img src=images/architecture.png />
@@ -52,7 +53,8 @@ The conversation engine layer includes four components, a dialogue manager, an e
 <br>
 
 ### Data Model
-The data layer is composed of databases that store collected conversational and non-conversational data, knowledge graphs used by Core Chat and skills, and the profiles of users. Following the data model represantation for Mr. Investa database. 
+The data layer is composed of databases that store collected conversational and non-conversational data, knowledge graphs used by Core Chat and skills, and the profiles of users.
+Next, the data model represantation for Mr. Investa database. 
 
 <br>
 <img src=images/data-model.png />
