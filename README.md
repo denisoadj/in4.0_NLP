@@ -72,16 +72,12 @@ To create a robust conversational AI, it was essential to gather comprehensive a
 <img src=images/stages.png />
 <br>
 
-Repository: Data Collection
-
 ### Data Augmentation
 Data augmentation involves creating new data from existing datasets to train machine learning (ML) models. These models require extensive and varied data for effective training, but obtaining diverse real-world data can be challenging due to data silos, regulations, and other constraints. By making slight modifications to the original data, data augmentation artificially expands the dataset.
 
 <br>
 <img src=images/data-collection.png />
 <br>
-
-Repository: Data Collection
 
 ## Natural Language Processing 
 ### Classification Models
@@ -101,11 +97,14 @@ Repository: Data Collection
 
 <br>
 <video src='videos/wireframe.mp4' width=180 />
+</video>
 <br> 
    
 ### Natural Language to Query
+
 <br>
 <video src='videos/query-example.mp4' width=180 />
+</video>
 <br>
    
 ## Footer
