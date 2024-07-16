@@ -69,14 +69,14 @@ The data layer is composed of databases that store collected conversational and 
 To create a robust conversational AI, it was essential to gather comprehensive and relevant data from primary sources such as website content, which involved extracting company information, services and other relevant information for each property listed from the Mr. Investa website using web scraping techniques.
 
 <br>
-<img src=images/stages.png />
+<img src=images/data-collection.png />
 <br>
 
 ### Data Augmentation
 Data augmentation involves creating new data from existing datasets to train machine learning (ML) models. These models require extensive and varied data for effective training, but obtaining diverse real-world data can be challenging due to data silos, regulations, and other constraints. By making slight modifications to the original data, data augmentation artificially expands the dataset.
 
 <br>
-<img src=images/data-collection.png />
+<img src=images/augmentation.png />
 <br>
 
 ## Natural Language Processing 
@@ -88,6 +88,7 @@ Data augmentation involves creating new data from existing datasets to train mac
 
 ### Model Evaluation
 
+#### Support Vector Classifier
 <br>
 <img src=images/support-vector-classifier.png />
 <br>
