@@ -35,7 +35,7 @@ The project utilises these technologies:
   * Database: MySQL
 
 ## Architecture 
-### ChatBot Framework
+### Chatbot Framework
 This diagram describe a general architectural design and delve deep into the important parts of each component. 
 A general chatbot architecture consists of those components:
    * User Interface component (User Experience Layer), 
