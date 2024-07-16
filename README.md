@@ -36,22 +36,48 @@ The project utilises these technologies:
 
 ## Architecture 
 ### ChatBot Framework
+This diagram describe a general architectural design and delve deep into the important parts of each component. A general chatbot architecture consists of five main components, a User Interface component (User Experience Layer), a Natural Language Understanding (NLU) component, a Dialogue
+Management (DM) component, a Backend component, and a Response Generation (RG)
+Component (Conversation Engine Layer & Data Layer).
+<img src=images/architecture.png />
+
 ### Conversation Engine Layer
+The conversation engine layer includes four components, a dialogue manager, an empathetic computing module, Core Chat, and dialogue skills.
+<img src=images/conversation-engine-layer.jpeg />
+
 ### Data Model
+The data layer is composed of databases that store collected conversational and non-conversational data, knowledge graphs used by Core Chat and skills, and the profiles of users. Following the data model represantation for Mr. Investa database. 
+<img src=images/data-model.png />
 
 ## Methodology 
 ### Stages
+<img src=images/stages.png />
+
 ### Data Collection
+To create a robust conversational AI, it was essential to gather comprehensive and relevant data from primary sources such as website content, which involved extracting company information, services and other relevant information for each property listed from the Mr. Investa website using web scraping techniques.
+Repository: Data Collection
+
 ### Data Augmentation
+Data augmentation involves creating new data from existing datasets to train machine learning (ML) models. These models require extensive and varied data for effective training, but obtaining diverse real-world data can be challenging due to data silos, regulations, and other constraints. By making slight modifications to the original data, data augmentation artificially expands the dataset.
+<img src=images/augmentation.png />
 
 ## Natural Language Processing 
 ### Classification Models
-### Models Evaluation
+
+<img src=images/classification-models.png />
+
+### Model Evaluation
+<img src=images/support-vector-classifier.png />
 
 ## Chatbot Demo
 ### User Experience Layer
+
+<video src='videos/wireframe.mp4' width=180/>
+   
 ### Natural Language to Query
 
+<video src='videos/query-example.mp4' width=180/>
+   
 ## Footer
 ### Future Improvements
    * Integration of new dataset  and advanced model optimization, possibly leveraging deep learning
