@@ -704,7 +704,7 @@ CREATE TABLE IF NOT EXISTS Intent (
 );
 
 
--- Example Queries
+-- EXAMPLE QUERIES 
 
 SELECT Street_Address, Town_City, Property_Type
 FROM property_info
