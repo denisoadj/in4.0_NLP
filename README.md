@@ -102,6 +102,9 @@ https://github.com/user-attachments/assets/16d12f30-c5af-459f-a5a0-0ef64467d9fb
 
 ### Natural Language to Query
 
+Natural Language to SQL service leverages GPT models to convert natural language queries into structured SQL queries. 
+This allows users to interact with databases using plain English, simplifying data retrieval and manipulation for those without SQL expertise. The service can interpret complex questions, translate them into accurate SQL commands, and execute these commands on a database to fetch the desired information. 
+
 https://github.com/user-attachments/assets/984e9390-00a2-4688-9230-9bbe4eb08e7b
 
 
